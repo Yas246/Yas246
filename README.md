@@ -1,4 +1,4 @@
-# Bonjour, je suis [Yassar WABI] 👋
+# Bonjour, je suis Yassar WABI
 
 🌍 Passionné par le développement, je transforme des idées en expériences simples et efficaces. Mon objectif est de créer des solutions digitales qui répondent à des besoins spécifiques, tout en utilisant les dernières technologies pour rendre les choses aussi simples et puissantes que possible.
 
