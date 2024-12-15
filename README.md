@@ -19,4 +19,4 @@ Je suis un développeur full-stack, principalement axé sur **Next.js**, **TypeS
 ## 📬 Contact
 
 Si vous souhaitez échanger ou discuter d'un projet, n'hésitez pas à me contacter par email :  
-📧 **Email** : [bigwabi01@gmail.com]
+📧 **Email** : bigwabi01@gmail.com
